@@ -26,10 +26,10 @@ I modernize infrastructure by turning manual operations into **code and AI agent
 
 ### 🧰 Stack
 
-![Linux](https://img.shields.io/badge/Linux-RHEL%20%7C%20Amazon%20Linux%20%7C%20Debian-FCC624?logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Semaphore](https://img.shields.io/badge/Semaphore%20UI-1F2937)
-![Docker](https://img.shields.io/badge/Docker%20rootless-2496ED?logo=docker&logoColor=white)
+![Semaphore](https://img.shields.io/badge/Semaphore-1F2937?logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
@@ -50,4 +50,4 @@ Six years at a security company: internal and external penetration tests (Burp S
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jcmdl-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcmdl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcmdl)
