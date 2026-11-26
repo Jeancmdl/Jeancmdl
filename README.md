@@ -28,7 +28,7 @@ I modernize infrastructure by turning manual operations into **code and AI agent
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Semaphore](https://img.shields.io/badge/Semaphore-1F2937?logo=ansible&logoColor=white)
+![Semaphore](https://img.shields.io/badge/Semaphore_UI-0F766E?logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
